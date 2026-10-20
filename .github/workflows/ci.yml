@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE: saludo-app
+  IMAGE: saludo app
 
 jobs:
   test:
